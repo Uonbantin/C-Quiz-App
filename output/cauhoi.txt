@@ -1,0 +1,1200 @@
+Ngon ngu lap trinh C duoc phat trien boi ai?
+A. Dennis Ritchie
+B. Bjarne Stroustrup
+C. James Gosling
+D. Guido van Rossum
+A
+Kieu dinh dang (% format specifier) nao dung de in ra so nguyen trong C?
+A. %f
+B. %c
+C. %d
+D. %s
+C
+Ky tu nao duoc dung de ket thuc mot chuoi (string) trong C?
+A. \n
+B. \0
+C. \t
+D. \r
+B
+Ham nao sau day dung de cap phat bo nho dong trong C?
+A. malloc()
+B. alloc()
+C. new()
+D. create()
+A
+Toan tu nao dung de lay dia chi cua mot bien trong C?
+A. *
+B. &
+C. %
+D. @
+B
+Ket qua cua phep toan 9 % 2 trong C la bao nhieu?
+A. 4.5
+B. 4
+C. 1
+D. 0
+C
+Ham fopen() tra ve gia tri gi neu khong mo duoc file?
+A. 0
+B. -1
+C. FALSE
+D. NULL
+D
+Trong C, mang (array) bat dau tu chi so (index) may?
+A. 0
+B. 1
+C. -1
+D. Tuy vao trinh bien dich
+A
+Kich thuoc cua kieu du lieu 'int' thuong la bao nhieu byte?
+A. 1 byte
+B. 2 bytes
+C. 4 bytes
+D. 8 bytes
+C
+Vong lap nao sau day luon thuc hien it nhat 1 lan bat ke dieu kien dung hay sai?
+A. for
+B. while
+C. do-while
+D. Khong co vong lap nao
+C
+Thu vien nao chua ham printf() va scanf()?
+A. math.h
+B. stdlib.h
+C. stdio.h
+D. string.h
+C
+Tu khoa nao dung de thoat khoi vong lap ngay lap tuc?
+A. continue
+B. return
+C. exit
+D. break
+D
+Tu khoa nao bo qua cac lenh ben duoi va bat dau lan lap tiep theo?
+A. break
+B. continue
+C. pass
+D. goto
+B
+Phep toan && la phep toan gi?
+A. AND logic
+B. OR logic
+C. NOT logic
+D. AND bitwise
+A
+Phep toan || la phep toan gi?
+A. AND logic
+B. OR logic
+C. NOT logic
+D. OR bitwise
+B
+De khai bao mot con tro kieu int, cu phap nao dung?
+A. int &ptr;
+B. int ptr*;
+C. int *ptr;
+D. pointer int ptr;
+C
+Gia tri mac dinh cua bien cuc bo (local variable) chua duoc khoi tao la gi?
+A. 0
+B. 1
+C. NULL
+D. Gia tri rac (Garbage value)
+D
+Ham nao de tim chieu dai cua chuoi?
+A. strlength()
+B. len()
+C. strlen()
+D. size()
+C
+Ham nao dung de copy chuoi nguyen ban sang chuoi dich?
+A. strcpy()
+B. strcopy()
+C. stringcopy()
+D. strcat()
+A
+Ham nao dung de noi hai chuoi lai voi nhau?
+A. stradd()
+B. strcat()
+C. strjoin()
+D. strcmp()
+B
+Neu strcmp(str1, str2) tra ve 0, dieu do co nghia la gi?
+A. str1 dai hon str2
+B. str1 ngan hon str2
+C. Hai chuoi giong het nhau
+D. Hai chuoi khac nhau
+C
+Che do nao dung de mo file chi de doc?
+A. "w"
+B. "r"
+C. "a"
+D. "x"
+B
+Che do "a" (append) khi mo file co tac dung gi?
+A. Ghi de len du lieu cu
+B. Xoa file
+C. Ghi noi tiep vao cuoi file
+D. Chi doc du lieu
+C
+De doc mot chuoi co chua dau cach tu ban phim, nen dung ham nao?
+A. scanf("%s")
+B. gets() hoac fgets()
+C. getchar()
+D. scanf("%c")
+B
+Ham realloc() co chuc nang gi?
+A. Cap phat bo nho moi
+B. Giai phong bo nho
+C. Thay doi kich thuoc vung nho da cap phat
+D. Xoa sach du lieu trong RAM
+C
+Trong struct, dung toan tu nao de truy cap thanh vien tu mot con tro?
+A. . (cham)
+B. -> (mui ten)
+C. * (sao)
+D. & (va)
+B
+Khai bao mang int a[5]; mang nay co cac phan tu tu a[?] den a[?]?
+A. a[1] den a[5]
+B. a[0] den a[5]
+C. a[0] den a[4]
+D. a[1] den a[4]
+C
+Lenh nao dung de giai phong bo nho cap phat dong?
+A. delete
+B. remove
+C. clear
+D. free()
+D
+Con tro NULL la gi?
+A. Con tro chua dia chi 0 (khong tro den dau ca)
+B. Con tro chua gia tri 0
+C. Con tro tro den bien kieu int
+D. Con tro chua duoc khai bao
+A
+Bien toan cuc (global variable) duoc khoi tao mac dinh la gi neu khong gan gia tri?
+A. Gia tri rac
+B. 0
+C. 1
+D. -1
+B
+Kieu du lieu nao khong phai la kieu du lieu co ban trong C?
+A. int
+B. float
+C. string
+D. char
+C
+Lenh switch() chap nhan bieu thuc co kieu du lieu nao?
+A. float hoac double
+B. int hoac char
+C. string
+D. bat ky kieu nao
+B
+Trong lenh switch, tu khoa nao chay khi khong co case nao khop?
+A. else
+B. default
+C. otherwise
+D. catch
+B
+Ket qua cua bieu thuc (5 > 3) ? 10 : 20 la gi?
+A. 5
+B. 3
+C. 10
+D. 20
+C
+Toan tu ++ co nghia la gi?
+A. Cong them 2
+B. Tang len 1 don vi
+C. Giam di 1 don vi
+D. Nhan doi
+B
+Ky tu nao the hien viec xuong dong (newline)?
+A. \t
+B. \n
+C. \r
+D. \b
+B
+De su dung ham rand(), can khai bao thu vien nao?
+A. stdio.h
+B. math.h
+C. time.h
+D. stdlib.h
+D
+Chuc nang chinh cua con tro (pointer) la gi?
+A. Luu tru gia tri so hoc
+B. Luu tru dia chi cua bien khac
+C. Luu tru ky tu
+D. Luu tru mang
+B
+Lenh return trong ham int main() the hien dieu gi?
+A. Ket thuc chuong trinh
+B. Bat dau chuong trinh
+C. In ra man hinh
+D. Nhap du lieu
+A
+Khai bao: char str[] = "Hello"; Kich thuoc cua mang str la bao nhieu byte?
+A. 5
+B. 6
+C. 4
+D. 8
+B
+Trong C, dau = (mot dau bang) la phep toan gi?
+A. So sanh bang
+B. So sanh khac
+C. Gan gia tri
+D. Khai bao
+C
+De so sanh bang, dung phep toan nao?
+A. =
+B. ==
+C. ===
+D. !=
+B
+Ham feof(FILE *stream) tra ve dung (true) khi nao?
+A. Khi file bi loi
+B. Khi file chua duoc mo
+C. Khi da doc den cuoi file (End Of File)
+D. Khi file dang duoc ghi
+C
+Tai sao dung sizeof() lai quan trong khi cap phat dong?
+A. De chuong trinh chay nhanh hon
+B. De biet kich thuoc cua kieu du lieu tren cac he may khac nhau
+C. De xoa bo nho
+D. De in ra man hinh
+B
+Tinh nang cua tu khoa 'const' la gi?
+A. Khai bao bien cuc bo
+B. Hang so (khong the thay doi gia tri sau khi gan)
+C. Chuyen kieu du lieu
+D. Tao vong lap
+B
+Phep chia 5 / 2 trong C se cho ket qua kieu int la gi?
+A. 2.5
+B. 2
+C. 3
+D. 1
+B
+Muon ep kieu mot bien float x sang int, viet the nao?
+A. int(x)
+B. (int)x
+C. convert(int, x)
+D. x = int
+B
+Khi mot ham tu goi lai chinh no, ky thuat do goi la gi?
+A. Vong lap (Loop)
+B. De quy (Recursion)
+C. Con tro ham (Function pointer)
+D. Da luong (Multithreading)
+B
+Dau '//' trong C dung de lam gi?
+A. Chia lay nguyen
+B. Chu thich tren nhieu dong
+C. Chu thich tren 1 dong
+D. Khai bao thu vien
+C
+Trong C, chi so cua phan tu cuoi cung cua mang a[10] la gi?
+A. 10
+B. 9
+C. 11
+D. 0
+B
+Chi de dinh nghia mot hang so macro, ta dung tu khoa nao?
+A. #include
+B. #define
+C. const
+D. macro
+B
+Ky tu nao the hien viec tab (khoang trang dai)?
+A. \n
+B. \b
+C. \t
+D. \a
+C
+Ham putchar() co chuc nang gi?
+A. In ra mot chuoi
+B. In ra mot so nguyen
+C. In ra mot ky tu
+D. Doc mot ky tu
+C
+Kieu du lieu nao dung de luu tru so thuc co do chinh xac kep?
+A. float
+B. double
+C. int
+D. long
+B
+Trong C, dau cham phay (;) co y nghia gi?
+A. Bat dau mot khoi lenh
+B. Ket thuc mot chuong trinh
+C. Ket thuc mot cau lenh (statement)
+D. Chu thich
+C
+Ham nao dung de xoa man hinh console (tren Windows)?
+A. clear()
+B. clrscr()
+C. system("cls")
+D. fflush(stdin)
+C
+Dinh dang %x hoac %X dung de in ra kieu so nao?
+A. So he thap phan
+B. So he bat phan (Octal)
+C. So he thap luc phan (Hexadecimal)
+D. So nhi phan (Binary)
+C
+Toan tu nao the hien phep toan AND tren bit (Bitwise AND)?
+A. &&
+B. &
+C. ||
+D. |
+B
+Gia tri cua bieu thuc 5 ^ 3 (XOR bitwise) la bao nhieu?
+A. 6
+B. 8
+C. 15
+D. 2
+A
+Kieu tra ve cua ham khong tra ve gia tri la gi?
+A. int
+B. null
+C. void
+D. empty
+C
+Trong C, ham main() bat buoc phai co kieu tra ve la gi theo chuan?
+A. void
+B. int
+C. float
+D. char
+B
+Ky tu the hien viec xoa lui (backspace) la gi?
+A. \r
+B. \n
+C. \b
+D. \f
+C
+Phep toan 10 >> 1 co nghia la gi?
+A. Dich phai 1 bit (chia 2)
+B. Dich trai 1 bit (nhan 2)
+C. So sanh lon hon
+D. So sanh nho hon
+A
+Tu khoa nao dung de khai bao bien tinh (giu nguyen gia tri giua cac lan goi ham)?
+A. extern
+B. register
+C. auto
+D. static
+D
+Kich thuoc cua kieu 'char' luon luon la bao nhieu?
+A. 1 byte
+B. 2 bytes
+C. 4 bytes
+D. 8 bytes
+A
+Toan tu nao co do uu tien cao nhat trong cac toan tu sau?
+A. =
+B. +
+C. *
+D. ()
+D
+Lenh #include <math.h> can thiet khi nao?
+A. Khi dung ham printf
+B. Khi dung ham sqrt() hoac pow()
+C. Khi dung ham strlen()
+D. Khi dung ham rand()
+B
+Ham pow(x, y) thuc hien chuc nang gi?
+A. Tinh can bac hai cua x
+B. Tinh x luy thua y
+C. Tinh y luy thua x
+D. Lay phan du cua x chia y
+B
+Trong C, chuoi "A" va ky tu 'A' co giong nhau khong?
+A. Co, giong het nhau
+B. Khong, "A" la mang ky tu ket thuc bang \0, 'A' la 1 ky tu
+C. Tuy vao trinh bien dich
+D. Khong co quy tac
+B
+Ham nao dung de doc mot dong chuoi co chua dau cach?
+A. scanf("%s")
+B. getchar()
+C. gets()
+D. read()
+C
+Toan tu 3 ngoi (Ternary operator) co cu phap nhu the nao?
+A. condition ? expr1 : expr2;
+B. condition : expr1 ? expr2;
+C. expr1 ? condition : expr2;
+D. condition ; expr1 : expr2 ?
+A
+Lenh do-while khac while o diem nao?
+A. Kiem tra dieu kien truoc khi lap
+B. Kiem tra dieu kien sau khi lap (lap it nhat 1 lan)
+C. Khong the dung break
+D. Chay cham hon
+B
+Toan tu nao the hien phep phu dinh logic (Logical NOT)?
+A. ~
+B. -
+C. !
+D. !=
+C
+De ep kieu tu int sang float, ta dung cu phap nao?
+A. float(x)
+B. (float)x
+C. convert(float)x
+D. toFloat(x)
+B
+Mot con tro (pointer) chua thong tin gi?
+A. Dia chi bo nho cua mot bien
+B. Gia tri cua mot bien
+C. Ten cua mot bien
+D. Kieu du lieu cua mot bien
+A
+Toan tu nao the hien phep OR tren bit (Bitwise OR)?
+A. ||
+B. |
+C. ^
+D. ~
+B
+Neu a = 5, ket qua cua a++ la bao nhieu (trong cung bieu thuc do)?
+A. 4
+B. 5
+C. 6
+D. Lỗi
+B
+Neu a = 5, ket qua cua ++a la bao nhieu (trong cung bieu thuc do)?
+A. 4
+B. 5
+C. 6
+D. Lỗi
+C
+Khai bao mang int arr[3][4] tao ra mang 2 chieu co bao nhieu phan tu?
+A. 3
+B. 4
+C. 7
+D. 12
+D
+Ham malloc() tra ve kieu gi?
+A. int*
+B. char*
+C. void*
+D. NULL
+C
+Gia tri nao bieu dien trang thai 'False' trong C?
+A. -1
+B. 0
+C. 1
+D. NULL
+B
+Trong C, 1 duoc coi la gi trong bieu thuc dieu kien?
+A. False
+B. True
+C. Error
+D. Garbage
+B
+Ham nao xoa vung nho sau khi cap phat dong de tranh memory leak?
+A. delete()
+B. clear()
+C. remove()
+D. free()
+D
+Ham calloc() khac malloc() o diem nao?
+A. calloc() khong cap phat dong
+B. calloc() tu dong khoi tao cac byte bang 0
+C. calloc() cap phat bo nho nhanh hon
+D. calloc() chi dung cho kieu char
+B
+Khai bao struct nao la dung cu phap?
+A. struct Student { int id; };
+B. struct Student ( int id; )
+C. struct Student [ int id; ]
+D. struct Student < int id; >
+A
+Dung dau gi de phan cach cac truong (field) trong viec khoi tao struct?
+A. ; (cham phay)
+B. . (cham)
+C. , (phay)
+D. : (hai cham)
+C
+Ham fgets() can truyen vao bao nhieu tham so?
+A. 1
+B. 2
+C. 3
+D. 4
+C
+Kieu enum dung de lam gi?
+A. Khai bao cac hang so nguyen co ten
+B. Khai bao mang
+C. Khai bao con tro
+D. Khai bao chuoi
+A
+Gia tri mac dinh cua phan tu dau tien trong enum la bao nhieu?
+A. 1
+B. -1
+C. 0
+D. NULL
+C
+Lenh typedef dung de lam gi?
+A. Dinh nghia lai ten cua mot kieu du lieu
+B. Khai bao bien
+C. Xoa bo kieu du lieu
+D. Ep kieu du lieu
+A
+Chuoi dinh dang %p dung de in ra gi?
+A. So nguyen
+B. So thuc
+C. Dia chi con tro (Pointer address)
+D. Chuoi
+C
+Tu khoa union co dac diem gi khac voi struct?
+A. Cac thanh vien dung chung mot vung nho
+B. Kich thuoc bang tong cac thanh vien
+C. Khong the luu tru kieu int
+D. Bat buoc phai co con tro
+A
+Ham fopen("data.txt", "w+") co chuc nang gi?
+A. Mo de ghi, xoa noi dung cu, cho phep doc lai
+B. Chi ghi noi tiep
+C. Chi mo de doc
+D. Bao loi neu file da ton tai
+A
+Khi truyen mang 1 chieu vao ham, thuc chat la ta dang truyen gi?
+A. Truyen toan bo ban sao cua mang
+B. Truyen dia chi phan tu dau tien cua mang (con tro)
+C. Truyen kich thuoc cua mang
+D. Truyen phan tu cuoi cung
+B
+Ham nao giup di chuyen con tro doc/ghi file den vi tri bat ky?
+A. fmove()
+B. fseek()
+C. ftell()
+D. fgoto()
+B
+Ham ftell() tra ve gia tri gi?
+A. Vi tri hien tai cua con tro file (tinh bang byte)
+B. Kich thuoc cua file
+C. Noi dung cua file
+D. Kieu du lieu cua file
+A
+De luu du lieu nhi phan (binary) vao file, ta dung ham nao?
+A. fprintf()
+B. fputs()
+C. fwrite()
+D. fprint()
+C
+Ham fread() tra ve gia tri gi?
+A. So luong byte da doc
+B. So luong phan tu (items) doc duoc thanh cong
+C. Dia chi bo nho
+D. Ky tu vua doc
+B
+Dau * khi dat truoc ten con tro (vi du: *ptr) co y nghia gi?
+A. Lay dia chi cua con tro
+B. Lay gia tri tai dia chi ma con tro dang tro toi
+C. Khai bao con tro
+D. Nhan hai con tro voi nhau
+B
+Mang ky tu char str[10] = "Hi"; thi str[2] co gia tri la gi?
+A. 'H'
+B. 'i'
+C. '\0' (ky tu null)
+D. Rac
+C
+Phep toan sizeof(char) luon tra ve?
+A. 0
+B. 1
+C. 2
+D. 4
+B
+Dieu kien de vong lap while(1) dung lai la gi?
+A. Het bo nho
+B. Khong the dung lai (tru khi dung break hoac tat chuong trinh)
+C. Chay 1 lan roi dung
+D. Gap loi bien dich
+B
+Ham atoi() nam trong thu vien stdlib.h co chuc nang gi?
+A. Chuyen chuoi thanh so thuc
+B. Chuyen chuoi thanh so nguyen
+C. Chuyen so thanh chuoi
+D. Noi hai chuoi
+B
+Toan tu dich trai (<<) thuc chat la phep toan gi voi so nguyen?
+A. Chia cho 2 mu n
+B. Nhan voi 2 mu n
+C. Cong them 2
+D. Tru di 2
+B
+Cach khai bao nguyen mau ham (function prototype) nao la dung?
+A. int sum(int a, int b);
+B. int sum(a, b);
+C. sum(int a, int b) int;
+D. sum function(int, int);
+A
+Neu khong co lenh break trong mot case cua switch, dieu gi se xay ra?
+A. Bao loi bien dich
+B. Thuc thi cac case tiep theo cho den khi gap break (fall-through)
+C. Tu dong thoat khoi switch
+D. Lap vo han
+B
+Tham so dong lenh 'argc' trong int main(int argc, char *argv[]) the hien gi?
+A. Mang cac chuoi tham so
+B. Kich thuoc bo nho
+C. So luong tham so truyen vao
+D. Ten file thuc thi
+C
+Kieu du lieu 'short' thuong co kich thuoc bao nhieu byte?
+A. 1
+B. 2
+C. 4
+D. 8
+B
+Trong dieu kien if (a = 5), bieu thuc nay se danh gia la true hay false?
+A. False
+B. True (vi phep gan thanh cong va tra ve 5)
+C. Lỗi bien dich
+D. Khong xac dinh
+B
+Dinh dang %lf duoc dung de nhap/xuat cho kieu du lieu nao?
+A. long int
+B. float
+C. double
+D. char
+C
+De so sanh hai ky tu, ta dung phep toan nao?
+A. strcmp()
+B. ==
+C. =
+D. compare()
+B
+Toan tu thao tac bit XOR la ky tu nao?
+A. ~
+B. |
+C. ^
+D. &
+C
+Gia tri cua bieu thuc 10 / 3.0 trong C la gi?
+A. 3
+B. 3.333333...
+C. 0
+D. Lỗi
+B
+Phep toan sizeof la ham (function) hay toan tu (operator)?
+A. Ham
+B. Toan tu
+C. Macro
+D. Bien
+B
+Chuoi dinh dang %o dung de the hien he co so may?
+A. He 2 (Binary)
+B. He 8 (Octal)
+C. He 10 (Decimal)
+D. He 16 (Hexadecimal)
+B
+Dinh danh (identifier) trong C KHONG duoc bat dau bang gi?
+A. Chu cai
+B. Dau gach duoi (_)
+C. Chu so
+D. Ky tu in hoa
+C
+Con tro ham (Function pointer) luu tru gi?
+A. Gia tri tra ve cua ham
+B. Tham so cua ham
+C. Dia chi bat dau cua mot doan ma (ham) trong bo nho
+D. Kieu du lieu cua ham
+C
+Macro #ifdef dung de lam gi?
+A. Kiem tra xem mot macro da duoc dinh nghia hay chua
+B. Khai bao bien
+C. Tinh toan bieu thuc
+D. In ra man hinh
+A
+Dau 'EOF' thuong co gia tri so nguyen la bao nhieu?
+A. 0
+B. 1
+C. -1
+D. 255
+C
+Bien toan cuc va bien cuc bo co cung ten thi bien nao duoc uu tien trong ham?
+A. Bien toan cuc
+B. Bien cuc bo
+C. Bao loi bien dich
+D. Chon ngau nhien
+B
+Dinh dang %u in ra kieu du lieu nao?
+A. unsigned int
+B. unsigned char
+C. float
+D. double
+A
+Cho int *p; p = &a; Phep toan *p++ se the hien dieu gi?
+A. Tang gia tri ma p tro toi len 1 don vi
+B. Lay gia tri tai p, sau do tang dia chi p len (tro den o nho tiep theo)
+C. Tang dia chi cua a len 1
+D. Lỗi
+B
+Ham fflush(stdin) dung de lam gi?
+A. Xoa sach man hinh
+B. Xoa bo dem ban phim (input buffer)
+C. Dong file
+D. Xoa bo nho RAM
+B
+Gia tri cua bieu thuc: 5 + 2 * 3 - 1 la bao nhieu?
+A. 20
+B. 10
+C. 14
+D. 16
+B
+De dung ham tolower() (chuyen in thuong), can thu vien nao?
+A. ctype.h
+B. string.h
+C. math.h
+D. stdio.h
+A
+Cau lenh tiep tuc vong lap bo qua phan con lai la gi?
+A. skip
+B. break
+C. continue
+D. return
+C
+Phep toan so sanh "lon hon hoac bang" the hien the nao?
+A. =>
+B. >=
+C. > =
+D. ==
+B
+Ham scanf() tra ve gia tri gi?
+A. Khong tra ve gi
+B. So luong bien da nhap duoc thanh cong
+C. Gia tri vua nhap
+D. Dia chi con tro
+B
+Khai bao: int a[5] = {1, 2}; thi a[2] co gia tri la bao nhieu?
+A. 0
+B. Gia tri rac
+C. 1
+D. 2
+A
+Khi nap chong file (overwrite) bang che do "w", du lieu cu se ra sao?
+A. Duoc giu nguyen
+B. Duoc ghep noi vao sau
+C. Bi xoa hoan toan
+D. Bi an di
+C
+Ham sprintf() khac gi printf()?
+A. sprintf in ra may in
+B. sprintf in ra file
+C. sprintf xuat chuoi vao mot bien char array thay vi in ra man hinh
+D. Khong co su khac biet
+C
+Lenh #define PI 3.14 duoc xu ly o giai doan nao?
+A. Bien dich (Compilation)
+B. Tien xu ly (Preprocessing)
+C. Lien ket (Linking)
+D. Thuc thi (Execution)
+B
+Chuoi "%-5d" co y nghia gi khi in so nguyen?
+A. In so nguyen am
+B. In ra 5 so nguyen
+C. In so nguyen, can le trai trong o 5 ky tu
+D. In so nguyen truc di 5
+C
+Neu ban chi dinh kich thuoc cho mang nhung khong khoi tao: int a[5]; cac gia tri la gi?
+A. Tat ca la 0
+B. Gia tri rac (Garbage)
+C. Tat ca la -1
+D. NULL
+B
+Khi dung scanf de nhap mot chuoi vao mang char str[20], co can dau & khong?
+A. Co (vi du: &str)
+B. Khong (vi ten mang da la dia chi)
+C. Tuy ban
+D. Bao loi bien dich
+B
+Ham toupper() lam nhiem vu gi?
+A. Doi chuoi sang so
+B. Doi ky tu thanh in hoa
+C. Doi ky tu thanh in thuong
+D. Kiem tra khoang trang
+B
+Cach mo file "data.bin" de doc nhi phan la gi?
+A. fopen("data.bin", "r");
+B. fopen("data.bin", "rb");
+C. fopen("data.bin", "wb");
+D. fopen("data.bin", "bin");
+B
+Chuc nang cua ham gets() nguy hiem o diem nao?
+A. No doc ca xuong dong
+B. No khong kiem tra kich thuoc bo dem, de gay tran bo dem (buffer overflow)
+C. No chay rat cham
+D. No khong dung duoc voi kieu char
+B
+Phep toan != co nghia la gi?
+A. Bang nhau
+B. Khac nhau (Not equal)
+C. Lon hon
+D. Nho hon
+B
+Toan tu ++a goi la gi?
+A. Post-increment (Tang sau)
+B. Pre-increment (Tang truoc)
+C. Post-decrement
+D. Pre-decrement
+B
+Khai bao char *p = "Hello"; roi sua *p = 'M'; co hop le khong?
+A. Co, hop le
+B. Khong, chuoi khai bao truc tiep vao con tro la read-only (hang chuoi)
+C. Sua thanh "Mello"
+D. Chuyen kieu sang int
+B
+Phep chia lay du (%) chi dung duoc voi kieu du lieu nao?
+A. float
+B. double
+C. int
+D. Tat ca cac kieu
+C
+Tham so argv[] trong ham main la mang cac gi?
+A. So nguyen
+B. So thuc
+C. Con tro chuoi (String pointers)
+D. Kieu char
+C
+Ham isalpha(c) tra ve true khi c la gi?
+A. So
+B. Chu cai (Alphabet)
+C. Khoang trang
+D. Ky tu dac biet
+B
+Toan tu logic dung de ket hop 2 dieu kien "hoac" la gi?
+A. &&
+B. ||
+C. !
+D. ^
+B
+Dong lenh / comment */ la gi?
+A. Loi bien dich
+B. In ra chu comment
+C. Chu thich tren mot hoac nhieu dong, bi bo qua khi dich
+D. Toan tu dac biet
+C
+Tu khoa the hien ham khong nhan tham so nao la gi?
+A. null
+B. void (vi du: int main(void))
+C. empty
+D. blank
+B
+Goi de quy la gi?
+A. Ham thuoc thu vien goi ham khac
+B. Ham tu goi lai chinh no
+C. Ham main goi ham phu
+D. Ham tra ve ket qua
+B
+Kieu int va kieu long thuong khac nhau chu yeu o diem nao?
+A. Cach luu tru bit dau
+B. Kich thuoc bo nho (so byte) de luu gia tri lon hon
+C. Kieu long chi luu so am
+D. Khong khac nhau gi
+B
+Lenh nao dung de ket thuc chuong trinh voi ma trang thai bao loi?
+A. exit(0);
+B. exit(1);
+C. break;
+D. return 0;
+B
+Toan tu ++ hoat dong giong cau lenh nao duoi day (gia su i++)?
+A. i = i + 2;
+B. i = i + 1;
+C. i = i * 1;
+D. i = i - 1;
+B
+Trong printf, \n lam nhiem vu gi?
+A. In dau xuyet
+B. Bo qua chu tiep theo
+C. Dua con tro xuong dong moi
+D. Kieu dinh dang
+C
+Ban co the gan mot mang cho mot mang khac bang toan tu = duoc khong (vd: a = b)?
+A. Duoc
+B. Khong (Phai copy tung phan tu hoac dung memcpy/strcpy)
+C. Chi duoc voi mang char
+D. Chi duoc voi mang int
+B
+Gia tri '\0' bang gia tri nguyen nao trong ASCII?
+A. 48
+B. 1
+C. -1
+D. 0
+D
+Dau gach cheo nguoc () trong C goi la gi?
+A. Escape character
+B. Newline
+C. Comment
+D. Divider
+A
+De xoa mot file trong C (xoa khoi o cung), dung ham nao?
+A. delete()
+B. remove()
+C. erase()
+D. clear()
+B
+Ham fputc() dung de lam gi?
+A. Ghi mot ky tu vao file
+B. Ghi mot chuoi vao file
+C. Doc mot ky tu
+D. Doc mot chuoi
+A
+Cau lenh if (0) { ... } doan code trong ngoac co chay khong?
+A. Co
+B. Khong bao gio
+C. Tuy trinh bien dich
+D. Lap vo han
+B
+Tu khoa 'extern' dung de lam gi?
+A. Tao bien cuc bo
+B. Chi ra bien nay duoc dinh nghia o mot file/noi khac
+C. Xoa bien
+D. Ngat vong lap
+B
+Ham time(NULL) tra ve gia tri gi?
+A. Thoi gian he thong theo dinh dang HH:MM:SS
+B. So giay troi qua tu Epoch (00:00:00 1/1/1970)
+C. Nam hien tai
+D. Chuoi hien thi ngay gio
+B
+Kieu du lieu 'size_t' thuong dung de lam gi?
+A. Bieu dien so am
+B. Bieu dien kieu chuoi
+C. Bieu dien kich thuoc (luon khong am) tra ve boi sizeof
+D. Khai bao file
+C
+Tu khoa #ifndef dung de lam gi?
+A. Kiem tra xem macro chua duoc dinh nghia
+B. Bat vong lap
+C. Ngat chuong trinh
+D. Khai bao bien kieu if
+A
+Trong C, do dai cua mot mang ki tu luon?
+A. Bang so ky tu + 1 (cho ky tu null)
+B. Bang so ky tu
+C. Khong bi han che
+D. Mac dinh la 255
+A
+Phep so sanh mang char: str1 == str2 (str1, str2 la ten mang) se so sanh cai gi?
+A. So sanh noi dung chuoi
+B. So sanh do dai chuoi
+C. So sanh dia chi bo nho cua hai mang
+D. Phep toan loi
+C
+Dinh dang %c trong scanf se doc bao nhieu ky tu?
+A. 1
+B. 2
+C. Toan bo dong
+D. Toan bo tu
+A
+Gia tri cua bieu thuc: 5 > 2 && 4 < 1 la gi?
+A. 1 (True)
+B. 0 (False)
+C. 5
+D. 4
+B
+Gia tri cua bieu thuc: 5 > 2 || 4 < 1 la gi?
+A. 1 (True)
+B. 0 (False)
+C. 5
+D. 4
+A
+Kieu du lieu 'unsigned int' co the luu gia tri am khong?
+A. Co
+B. Khong
+C. Tuy he dieu hanh
+D. Chi luu duoc -1
+B
+Kieu du lieu 'double' co do chinh xac bao nhieu bit?
+A. 16
+B. 32
+C. 64
+D. 128
+C
+Ham strtok() co chuc nang gi?
+A. Tinh do dai chuoi
+B. Cat chuoi (split string) dua tren cac ky tu phan cach
+C. Noi chuoi
+D. Kiem tra chu hoa chu thuong
+B
+Trong union, kich thuoc cua no bang kich thuoc cua thanh vien nao?
+A. Thanh vien nho nhat
+B. Tong cac thanh vien
+C. Thanh vien lon nhat
+D. Luon la 4 bytes
+C
+Cach lay dia chi cua phan tu thu 2 trong mang a la gi?
+A. &a[1]
+B. &a[2]
+C. a + 2
+D. &a
+A
+Ham puts("Hello") the hien tuong duong lenh nao?
+A. printf("Hello")
+B. printf("Hello\n")
+C. scanf("Hello")
+D. getchar()
+B
+Neu khong co che do "r" ma dung "w" mo file dang co du lieu, dieu gi xay ra?
+A. Bao loi
+B. Doc duoc du lieu
+C. File bi reset trang (xoa sach du lieu)
+D. Hien canh bao
+C
+Gia tri cua bieu thuc !100 la bao nhieu?
+A. -100
+B. 0
+C. 1
+D. 99
+B
+Ham strchr() dung de lam gi?
+A. Tinh do dai chuoi
+B. Tim kiem su xuat hien dau tien cua mot ky tu trong chuoi
+C. Chuyen so thanh chuoi
+D. Copy chuoi
+B
+Mang a co the hien la con tro hang (constant pointer) den phan tu nao?
+A. a[1]
+B. a[n]
+C. a[0]
+D. a[-1]
+C
+Kich thuoc cua con tro luu giu dia chi 32-bit la bao nhieu byte?
+A. 2 bytes
+B. 4 bytes
+C. 8 bytes
+D. 1 byte
+B
+Tu khoa struct va class (trong C++) giong nhau o tu khoa struct trong C cho phep tao gi?
+A. Kieu du lieu do nguoi dung tu dinh nghia nhom cac kieu khac nhau
+B. Vong lap dac biet
+C. Mang cac con tro
+D. Mot tep tin
+A
+Dau -> duoc dung ket hop voi con tro thay cho cach viet nao?
+A. (*ptr).thanh_vien
+B. ptr.thanh_vien
+C. &ptr.thanh_vien
+D. ptr->*thanh_vien
+A
+Gia tri thuc su cua ky tu '0' (so 0 dang ky tu) trong ASCII la bao nhieu?
+A. 0
+B. 48
+C. 97
+D. 65
+B
+Gia tri ASCII cua 'A' va 'a' la bao nhieu?
+A. 65 va 97
+B. 48 va 65
+C. 97 va 122
+D. 0 va 1
+A
+Toan tu sizeof(int) tren he thong 64-bit thong thuong tra ve gi?
+A. 2
+B. 4
+C. 8
+D. 16
+B
+De so sanh hai chuoi khong phan biet hoa thuong, thuong dung ham nao (phi tieu chuan tren Windows)?
+A. strcmp()
+B. stricmp() hoac strcasecmp()
+C. strncmp()
+D. strcpy()
+B
+De chi co the doc file nhung file phai ton tai san, dung che do nao?
+A. "w"
+B. "a"
+C. "r"
+D. "w+"
+C
+Che do "r+" co chuc nang gi?
+A. Mo de doc va ghi (file phai ton tai)
+B. Mo de doc roi xoa
+C. Chi ghi hinh anh
+D. Copy file
+A
+Ham rand() hoat dong dua tren gi?
+A. Nhiet do CPU
+B. Thuat toan tao so ban ngau nhien co haat giong (seed)
+C. Mang internet
+D. Ban phim
+B
+Gia tri RAND_MAX thuong la so bao nhieu?
+A. 100
+B. 255
+C. Mot so nguyen rat lon (vd 32767 hoac lon hon)
+D. 1000
+C
+Ham fread(&x, sizeof(int), 1, fp) thuc hien viec gi?
+A. Doc 1 so nguyen tu file fp vao bien x
+B. Ghi bien x ra file
+C. Doc file van ban thong thuong
+D. Xoa noi dung fp
+A
+Trong switch-case, gia tri cua case bat buoc phai la gi?
+A. Hang so nguyen hoac ky tu (Constant)
+B. Bien (Variable)
+C. Con tro
+D. Chuoi (String)
+A
+Macro FILE tra ve gi?
+A. Ngay bien dich
+B. Ten cua tep dang bien dich (duoi dang chuoi)
+C. Kich thuoc tep
+D. Loi he thong
+B
+Macro LINE tra ve gi?
+A. Do dai chuoi hien tai
+B. So luong bien
+C. Dong code hien tai dang duoc bien dich
+D. So dong cua tep tin
+C
+Khi gap ham exit(), chuong trinh the nao?
+A. Quay ve dau vong lap
+B. Bo qua dong loi
+C. Dong tat ca file va ket thuc ngay lap tuc
+D. In ra file log
+C
+Thieu #include <stdio.h> ma dung printf() thuong bi loi gi trong cac trinh bien dich moi?
+A. Loi cu phap
+B. Loi khong tim thay dinh nghia (Implicit declaration of function)
+C. Loi thieu ngoac kep
+D. Loi tran bo nho
+B
+Gia tri cua -5 % 2 trong C la bao nhieu?
+A. -1
+B. 1
+C. -2
+D. 2
+A
+Kieu char co the duoc hieu nhu mot kieu gi dac biet?
+A. So nguyen rat nho (1 byte)
+B. Chuoi
+C. Con tro
+D. Ham
+A
+Lenh "goto nhan;" de dieu huong luong chay den dau?
+A. Den vong lap gan nhat
+B. Den dau chuong trinh
+C. Den "nhan:" (label) tuong ung trong cung mot ham
+D. Den ham khac
+C
+Thu vien nao dinh nghia kieu bool (true/false) trong C99?
+A. stdio.h
+B. math.h
+C. stdbool.h
+D. boolean.h
+C
+Khong gian bo nho luu bien cuc bo duoc goi la gi?
+A. Heap
+B. Stack
+C. Data Segment
+D. Code Segment
+B
+Khong gian bo nho cap phat dong (malloc) goi la gi?
+A. Heap
+B. Stack
+C. Register
+D. Cache
+A
